@@ -1,4 +1,4 @@
-# depression-predictor-app
+
 # 🧠 Student Depression Prediction App 
 
 This Streamlit app predicts student depression risk based on academic, lifestyle, and emotional factors — and gives smart suggestions using a built-in chatbot.
