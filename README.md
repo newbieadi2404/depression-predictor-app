@@ -1,5 +1,5 @@
 # depression-predictor-app
-# 🧠 Student Depression Prediction App with Chatbot
+# 🧠 Student Depression Prediction App 
 
 This Streamlit app predicts student depression risk based on academic, lifestyle, and emotional factors — and gives smart suggestions using a built-in chatbot.
 
@@ -8,7 +8,6 @@ This Streamlit app predicts student depression risk based on academic, lifestyle
 ## 📦 Features
 
 - 🔍 Predicts depression risk using a machine learning model
-- 🤖 Personalized chatbot suggestions based on prediction results
 - 📈 Interactive risk trend charts
 - 📥 Downloadable prediction logs (CSV format)
 - 💡 Real-time insights on sleep, stress, and emotional health
@@ -17,8 +16,7 @@ This Streamlit app predicts student depression risk based on academic, lifestyle
 
 1. Enter your academic, lifestyle, and emotional details.
 2. Click **Predict Risk**.
-3. Optionally click the **💬 Chatbot** button at the bottom-right for personalized advice.
-4. View past predictions and download them.
+3. View past predictions and download them.
 
 ## 📂 Tech Stack
 
